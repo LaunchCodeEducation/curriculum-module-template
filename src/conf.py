@@ -177,6 +177,8 @@ htmlhelp_basename = 'CurriculumModuledoc'
 
 # -- Options for todo extension ----------------------------------------------
 
+html_codeblock_linenos_style = 'table'
+
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
